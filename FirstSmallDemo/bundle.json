@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.clcw.FirstSmallDemo.app.main",
+      "rules":{
+          "":"Main/MainViewController"
+      }
+    }
+  ]
+}
